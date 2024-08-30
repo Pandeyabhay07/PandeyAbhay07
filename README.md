@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhaynitinpandey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ixZ7KPqRGWxuPo0qH2BQsGzUJKd5ycpb/view?usp=drive_link](https://drive.google.com/file/d/1ixZ7KPqRGWxuPo0qH2BQsGzUJKd5ycpb/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ixZ7KPqRGWxuPo0qH2BQsGzUJKd5ycpb/view?usp=drive_link](https://drive.google.com/file/d/16-HvBAvaE9m6q-S9WCB3LcyRRJEvNpbE/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have good sense of humour.**
 
