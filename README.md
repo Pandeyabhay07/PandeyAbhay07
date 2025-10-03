@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
-<h3 align="center">I am a coding enthusiast currently in my 3rd Year of Engineering.</h3>
+<h3 align="center"></h3>
 
-- 🔭 I’m currently working on **ABESaathi,Satellite Image Segmentation**
+- 🔭 I’m currently working at **HashedIn By Deloitte**
 
-- 🌱 I’m currently learning **MERN and Databases.**
+- 🌱 I’m currently improving **Data Engineering and Backend**
 
-- 💬 Ask me about **Data Structures and Algorithms, Problem Solving.**
+- 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Backend, GenAI**
 
 - 📫 How to reach me **abhaynitinpandey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ixZ7KPqRGWxuPo0qH2BQsGzUJKd5ycpb/view?usp=drive_link](https://drive.google.com/file/d/16-HvBAvaE9m6q-S9WCB3LcyRRJEvNpbE/view?usp=sharing)
+- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/11Ye1_7ysz_fQBSdUGF7wKRY8JOz2bQ1N/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I have good sense of humour.**
 
